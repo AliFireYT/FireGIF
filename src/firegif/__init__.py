@@ -1,0 +1,1 @@
+"""FireGIF Telegram media editor."""
